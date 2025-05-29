@@ -173,7 +173,7 @@ planilha1 = wb.active
 planilha1.title = "Paises"
 cabecalhos_paises = ["Nome Comum", "Nome Oficial", "Capital", "Região", "SubRegião",
                      "População", "Área", "Nome Moeda", "Símbolo Moeda", "Idioma", "Fuso Horário", "Bandeira"]
-planilha1.append(["Nome Dupla:", "Kaio Mungo e Luiz Henrique"])
+planilha1.append(["Nome Dupla:", "Gabriel Viana e Fábio Garrote"])
 planilha1.append(["Data de Geração:", datetime.now().strftime("%d/%m/%Y")])
 planilha1.append(cabecalhos_paises)
 
